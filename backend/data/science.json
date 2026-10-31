@@ -1,0 +1,22 @@
+[
+  {"id": "sci-clima-fruttificazione", "category": "scienza", "title": "Clima e fruttificazione: un rapporto con ritardi",
+   "forest_types": ["faggeta", "castagneto", "querceto"], "latin_names": [],
+   "text": "La letteratura scientifica indica che temperatura e precipitazioni sono i principali fattori ambientali della fruttificazione fungina, ma con effetti ritardati: la pioggia di oggi influenza le nascite dopo giorni o settimane. Anche l'umidità del suolo nelle settimane precedenti conta, e la stessa pioggia può produrre risultati molto diversi in anni diversi. Per questo i modelli predittivi usano variabili meteo con finestre temporali e non il solo dato giornaliero.",
+   "reference": "Boddy L. et al. (2014), Fungal Ecology 10, 20-33 - riferimento da verificare", "verified": false},
+  {"id": "sci-fenologia", "category": "scienza", "title": "Fenologia dei funghi e cambiamenti climatici",
+   "forest_types": [], "latin_names": [],
+   "text": "Studi basati su lunghe serie di osservazioni europee hanno documentato cambiamenti nell'epoca e nella durata della stagione di fruttificazione, collegati alla variazione climatica. Le stagioni sembrano estendersi e le date di picco spostarsi, con risposte diverse tra specie micorriziche e saprofite. Ciò significa che i calendari storici sono una base utile ma non una garanzia per l'anno in corso.",
+   "reference": "Kauserud H. et al. (2008), PNAS 105 - riferimento da verificare", "verified": false},
+  {"id": "sci-porcini", "category": "scienza", "title": "Produttività del porcino nei boschi italiani",
+   "forest_types": ["castagneto", "faggeta", "querceto"], "latin_names": ["Boletus edulis"],
+   "text": "Ricerche condotte su boschi italiani hanno studiato come gestione forestale, copertura arborea e lettiera influenzino la produzione dei porcini (Boletus edulis e specie affini). Un bosco con copertura moderata, sottobosco ordinato e senza compattamento del suolo tende a fruttificare meglio; il calpestio eccessivo e la raccolta di tutta la lettiera possono ridurre le nascite.",
+   "reference": "Salerni E., Perini C. (2004), Forest Ecology and Management 201 - riferimento da verificare", "verified": false},
+  {"id": "sci-micorrize", "category": "scienza", "title": "Micorrize: perché il bosco conta quanto la pioggia",
+   "forest_types": ["faggeta", "castagneto", "querceto", "abetina", "pineta"], "latin_names": [],
+   "text": "Molti dei funghi più ricercati (porcini, gallinacci, ovoli, sanguinelli) sono ectomicorrizici: vivono legati alle radici di specifici alberi e dipendono da essi per gli zuccheri. Perciò non crescono dove non c'è il loro ospite e risentono dello stato di salute del bosco, di tagli e di siccità che stressano gli alberi. La presenza del micelio nel suolo non garantisce però la fruttificazione.",
+   "reference": "Smith S.E., Read D.J., Mycorrhizal Symbiosis (3a ed., 2008) - riferimento da verificare", "verified": false},
+  {"id": "sci-complessita", "category": "scienza", "title": "Perché prevedere la crescita è difficile",
+   "forest_types": [], "latin_names": [],
+   "text": "La fruttificazione dipende dall'interazione tra meteo recente, stagione, tipo di bosco, quota, esposizione, disponibilità di nutrienti, eventi passati (annate di grande produzione possono essere seguite da annate scarse) e dalla specie. Ogni previsione basata solo sul meteo è una stima probabilistica con grande incertezza: va letta come un indicatore di condizioni favorevoli, non come la certezza di trovare funghi.",
+   "reference": "Sintesi interna", "verified": false}
+]
